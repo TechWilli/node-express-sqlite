@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+
+# não subir o database
+src/database/database.db
